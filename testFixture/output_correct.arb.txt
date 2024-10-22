@@ -1,0 +1,15 @@
+{
+    "@@locale": "en",
+    "a": "a",
+    "@a": {
+        "description": "a description"
+    },
+    "b": "b",
+    "@b": {
+        "description": "b description"
+    },
+    "c": "c",
+    "@c": {
+        "description": "c description"
+    }
+}
