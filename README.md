@@ -14,7 +14,7 @@ Help you to sort the strings in your .arb file to keep them organized. If your .
 1. Execute command `sort my ARB file`
 
 #### Demo
-\!\[ARB Sorter\]\(images/arb_sorter_demo.gif\)
+![ARB Sorter](https://github.com/devLeiF/arbtools/blob/main/images/arb_sorter_demo.gif)
 
 ## Release Notes
 
